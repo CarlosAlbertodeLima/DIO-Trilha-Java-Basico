@@ -4,7 +4,7 @@ public class ContaTerminal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Solicitar informações ao usuário
+        // Solicitar informações ao usuário 
         System.out.print("Por favor, digite o número da Agência: ");
         String agencia = scanner.nextLine();
 
